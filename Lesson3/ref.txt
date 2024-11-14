@@ -1,0 +1,4 @@
+Grayscaling of an image read as colored
+ColorConvert - HSV 
+Rotating an image
+Edge Detection in an image
